@@ -1,7 +1,5 @@
 ### Hi there, I'm Anna 👋
 
-I'm a Creative Developer
-
 <!--
 **ouchpixels/ouchpixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
