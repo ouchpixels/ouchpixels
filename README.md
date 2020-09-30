@@ -10,7 +10,7 @@
 <br/>
 🏀 I care about performance, 60 fps and all that jazz
 <br/>
-👁️ In general, I'm all about creating delightful experiences
+👁️ I'm all about creating delightful digital experiences
 <br/>
 <br/>
 <!--🔭 You can play with many of my works on Codepen. -->
