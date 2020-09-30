@@ -1,6 +1,7 @@
 ### Hi there!👋
 
 My name is Anna and I publish works under the name Anna the Scavenger.
+<br/>
 I'm a freelance Creative Developer with focus on Javascript, Three.js, GLSL and SVG.
 
 ☀️ I design and develop interactive 3D scenes for the Web
