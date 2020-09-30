@@ -2,12 +2,12 @@
 
 👋 Hi! I'm Anna—  a freelance Creative Developer who is passionate about storytelling on the Web.
 
-### I design & develop:
-☀️ interactive 3D scenes (Three.js / PixiJS / GLSL / WebGL)
+### I design and develop:
+☀️ Interactive 3D scenes (Three.js / PixiJS / GLSL / WebGL)
 <br/>
-🦴 playful 2D animations (SVG / GSAP)
+🦴 Playful 2D animations (SVG / GSAP)
 <br/>
-🏀 performant
+🏀 Performant
 <br/>
 👁️ pleasing generative code artworks
 <br/>
