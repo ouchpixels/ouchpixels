@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="fjAIpdiwnfmZOagWfxiQywfUZuUJFGI9ns7oqoxkm20" />
 # Anna the Scavenger — @ouchpixels <br/>
 ## 👋 Hi! I'm Anna— a freelance Frontend Developer <br/>passionate about 3D and interactive storytelling.<br/>
 
