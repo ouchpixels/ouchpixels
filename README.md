@@ -1,8 +1,6 @@
-### Hi there!👋
-## Anna the Scavenger — @ouchpixels 
+### Anna the Scavenger — @ouchpixels 
 
-## My name is Anna and I publish works online under the name Anna the Scavenger.
-## I'm a freelance Creative Developer passionate about storytelling on the Web.
+👋 Hi! I'm Anna- a freelance Creative Developer passionate about storytelling on the Web.
 
 ## I design & develop:
 ☀️ interactive 3D scenes (Three.js / PixiJS / GLSL / WebGL)
