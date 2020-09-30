@@ -1,4 +1,12 @@
-### Hi there, I'm Anna 👋
+### Hi there!👋
+
+My name is Anna and I publish works under the name Anna the Scavenger.
+I'm a freelance Creative Developer with focus on Javascript, Three.js, GLSL and SVG.
+
+☀️ I design and develop interactive 3D scenes for the Web
+<!--🔭 You can play with many of my works on Codepen. -->
+📫 You can reach me on Twitter (https://twitter.com/ouch_pixels)
+
 
 <!--
 **ouchpixels/ouchpixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
