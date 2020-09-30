@@ -1,4 +1,4 @@
-## Anna the Scavenger — @ouchpixels 
+# Anna the Scavenger — @ouchpixels 
 
 ### 👋 Hi! I'm Anna—  a freelance Creative Developer <br/> who is passionate about storytelling on the Web.
 
