@@ -3,13 +3,14 @@
 👋 Hi! I'm Anna—  a freelance Creative Developer who is passionate about storytelling on the Web.
 
 ### I design and develop:
-💎 Interactive 3D scenes (Three.js / PixiJS / GLSL / WebGL)
+💎 Beautiful interactive 3D scenes (Three.js / PixiJS / GLSL / WebGL)
 <br/>
 🦴 Playful 2D animations (SVG / GSAP)
 <br/>
-🏀 Performant
+### I care about:
+🏀 Performance, 60fps and all that jazz
 <br/>
-👁️ In general, pleasing experiences!
+👁️ In general, pleasing experiences
 <br/>
 <!--🔭 You can play with many of my works on Codepen. -->
 📫 You can reach me on Twitter [@ouch_pixels](https://twitter.com/ouch_pixels)
