@@ -2,7 +2,6 @@
 ## Anna the Scavenger — @ouchpixels 
 
 ## My name is Anna and I publish works online under the name Anna the Scavenger.
-<br/>
 ## I'm a freelance Creative Developer passionate about storytelling on the Web.
 
 ## I design & develop:
