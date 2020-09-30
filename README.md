@@ -9,7 +9,7 @@
 <br/>
 🏀 Performant
 <br/>
-👁️ pleasing generative code artworks
+👁️ In general, pleasing experiences!
 <br/>
 <!--🔭 You can play with many of my works on Codepen. -->
 📫 You can reach me on Twitter [@ouch_pixels](https://twitter.com/ouch_pixels)
