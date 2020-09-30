@@ -5,7 +5,7 @@ I'm a freelance Creative Developer with focus on Javascript, Three.js, GLSL and 
 
 ☀️ I design and develop interactive 3D scenes for the Web
 <!--🔭 You can play with many of my works on Codepen. -->
-📫 You can reach me on Twitter (https://twitter.com/ouch_pixels)
+📫 You can reach me on Twitter [@ouch_pixels](https://twitter.com/ouch_pixels)
 
 
 <!--
