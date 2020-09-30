@@ -7,6 +7,8 @@
 <br/>
 🦴 Playful 2D animations (SVG / GSAP)
 <br/>
+✨ Generative code art (p5.js)
+
 ### I care about:
 🏀 Performance, 60 fps and all that jazz
 <br/>
