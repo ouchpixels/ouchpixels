@@ -1,11 +1,15 @@
 ## Anna the Scavenger — @ouchpixels 
 
-👋 Hi! I'm Anna- a freelance Creative Developer passionate about storytelling on the Web.
+👋 Hi! I'm Anna—  a freelance Creative Developer passionate about storytelling on the Web.
 
 ### I design & develop:
+<br/>
 ☀️ interactive 3D scenes (Three.js / PixiJS / GLSL / WebGL)
+<br/>
 🦴 playful 2D animations (SVG / GSAP)
+<br/>
 🏀 performant
+<br/>
 👁️ pleasing generative code artworks
 <br/>
 <!--🔭 You can play with many of my works on Codepen. -->
