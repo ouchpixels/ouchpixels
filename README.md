@@ -6,11 +6,11 @@
 <br/>
 🦴 I create playful 2D animations (SVG / GSAP)
 <br/>
-✨ Generative code art (p5.js)
+✨ I tinker with generative code art (p5.js)
 <br/>
 🏀 I care about performance, 60 fps and all that jazz
 <br/>
-👁️ In general, pleasing experiences
+👁️ In general, I'm all about creating delightful experiences
 <br/>
 <br/>
 <!--🔭 You can play with many of my works on Codepen. -->
