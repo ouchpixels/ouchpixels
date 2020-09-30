@@ -15,6 +15,7 @@
 ### Find me around the Web 🌎:
 💥 See my experiments on [CodePen](https://codepen.io/ScavengerFrontend)
 <br/>
+### Contact
 📫 You can reach me on Twitter [@ouch_pixels](https://twitter.com/ouch_pixels) or pop me an email at: hello@annacreative.dev
 
 
