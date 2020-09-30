@@ -8,7 +8,7 @@
 🦴 Playful 2D animations (SVG / GSAP)
 <br/>
 ### I care about:
-🏀 Performance, 60fps and all that jazz
+🏀 Performance, 60 fps and all that jazz
 <br/>
 👁️ In general, pleasing experiences
 <br/>
