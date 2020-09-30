@@ -1,10 +1,16 @@
 ### Hi there!👋
+## Anna the Scavenger — @ouchpixels 
 
-My name is Anna and I publish works under the name Anna the Scavenger.
+## My name is Anna and I publish works online under the name Anna the Scavenger.
 <br/>
-I'm a freelance Creative Developer with focus on Javascript, Three.js, GLSL and SVG.
+## I'm a freelance Creative Developer passionate about storytelling on the Web.
 
-☀️ I design and develop interactive 3D scenes for the Web
+## I design & develop:
+☀️ interactive 3D scenes (Three.js / PixiJS / GLSL / WebGL)
+🦴 playful 2D animations (SVG / GSAP)
+🏀 performant
+👁️ pleasing generative code artworks
+<br/>
 <!--🔭 You can play with many of my works on Codepen. -->
 📫 You can reach me on Twitter [@ouch_pixels](https://twitter.com/ouch_pixels)
 
