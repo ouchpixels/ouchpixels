@@ -7,7 +7,7 @@
 <br/>
 ✨ I tinker with generative code art (p5.js)
 <br/>
-🏀 I care about performance, 60 fps and all that jazz
+🏀 I care about **performance**, 60 fps and all that jazz
 <br/>
 👁️ I'm all about creating delightful experiences and pushing the boundaries of the Web
 <br/>
