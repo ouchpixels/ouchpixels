@@ -9,7 +9,7 @@
 <br/>
 🏀 I care about **performance**, 60 fps and all that jazz
 <br/>
-👁️ I'm all about creating delightful experiences and pushing the boundaries of the Web
+👁️ I'm all about delightful digital experiences and pushing the boundaries of the Web
 <br/>
 <!--🔭 You can play with many of my works on Codepen. -->
 ### Find me around the Web 🌎:
