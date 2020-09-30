@@ -1,6 +1,7 @@
 # Anna the Scavenger — @ouchpixels <br/>
 ## 👋 Hi! I'm Anna— a freelance Frontend Developer passionate about <br/> interactive storytelling and 3D.<br/>
 
+### This is what I mostly do:
 🟣 I design and develop **interactive 3D scenes** (three.js / GLSL / WebGL)
 <br/>
 🦴 I create **playful 2D animations** (SVG / GSAP / Pixi.js)
