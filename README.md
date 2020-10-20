@@ -2,13 +2,13 @@
 ## 👋 Hi! I'm Anna — a Creative Developer passionate about 3D and interaction on the Web.
 
 
-### 🟣 I design and develop **interactive 3D scenes** (three.js / GLSL / WebGL)
+#### 🟣 I design and develop **interactive 3D scenes** (three.js / GLSL / WebGL)
 <br/>
-### 🦴 I create **playful 2D animations** (SVG / GSAP / Pixi.js)
+#### 🦴 I create **playful 2D animations** (SVG / GSAP / Pixi.js)
 <br/>
-### 🍭 I tinker with generative code art (p5.js)
+#### 🍭 I tinker with generative code art (p5.js)
 <br/>
-### 🏀 I care about **performance** (60 fps and all that jazz)
+#### 🏀 I care about **performance** (60 fps and all that jazz)
 <br/>
 ### 👁️ I'm all about delightful digital experiences and pushing the boundaries of the Web
 <br/>
