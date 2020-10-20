@@ -1,5 +1,5 @@
 # Anna the Scavenger — @ouchpixels <br/> 
-# 👋 Hi! I'm Anna — a Creative Developer passionate about <br/> 3D and interaction on the Web.
+# 👋 Hi! I'm Anna — a Creative Developer passionate about 3D and interaction on the Web.
 
 
 🟣 I design and develop **interactive 3D scenes** (three.js / GLSL / WebGL)
