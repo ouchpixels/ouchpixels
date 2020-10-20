@@ -2,7 +2,7 @@
 ## 👋 Hi! I'm Anna — a Creative Developer passionate about 3D and interaction on the Web.
 
 
-🟣 I design and develop **interactive 3D scenes** (three.js / GLSL / WebGL)
+### 🟣 I design and develop **interactive 3D scenes** (three.js / GLSL / WebGL)
 <br/>
 🦴 I create **playful 2D animations** (SVG / GSAP / Pixi.js)
 <br/>
