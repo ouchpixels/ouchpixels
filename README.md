@@ -3,7 +3,6 @@
 
 
 ### 🟣 I design and develop **interactive 3D scenes** (three.js / GLSL / WebGL)
-<br/>
 #### 🦴 I create **playful 2D animations** (SVG / GSAP / Pixi.js)
 <br/>
 #### 🍭 I tinker with generative code art (p5.js)
