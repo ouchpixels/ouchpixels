@@ -8,7 +8,7 @@ I enjoy crafting things at the intersection of art and technology, telling stori
 - 🏀 I care about performance (60 fps and all that jazz)
 - 👁️ I'm all about delightful digital experiences and pushing the boundaries of the Web -->
 <!--🔭 You can play with many of my works on Codepen. -->
-### Find me around the Web 🌎:
+### Find me around the Web
 💥 See my experiments on [CodePen](https://codepen.io/ScavengerFrontend)
 <br/>
 ### Contact
