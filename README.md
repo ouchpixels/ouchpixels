@@ -22,7 +22,7 @@ At the heart of everything I make lies color, humor, relationship between 2D and
 
 ### My background & influences
 
-I've been drawing and creating for as long as I can remember, it’s a core part of me. I also studied applied computer science, been a math teacher, sometimes if I'm lucky (usually by night) I experiment with traditional painting, illustration, paper sculpture.. <br/>
+I've been drawing and creating since as long as I can remember, it’s a core part of me. I also studied applied computer science, been a math teacher, sometimes if I'm lucky (usually by night) I experiment with traditional painting, illustration, paper sculpture.. <br/>
 I also love taking long walks around the city, trying to be a good observer of the world around me. It all influences my code art.<br/><br/>
 I just love to create stuff.
 
