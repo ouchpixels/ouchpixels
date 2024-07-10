@@ -12,10 +12,12 @@ code art + generative art + interactive storytelling
 
 ### About my art
 
-I love to express myself through code. I discovered creative coding in summer 2017 and been publishing my javascript experiments on [Codepen](https://codepen.io/ScavengerFrontend) since. Interactive SVG was my favorite medium of expression back then. <br/> In autumn 2019 I started to teach myself realtime 3D: threejs/webgl and glsl shaders. I was amazed by the endless possibilites of these tools. I learned to think about code art in visual 3D narratives, a very rewarding process to me as an artist. <br/>
+I love to express myself through code. I discovered creative coding in summer 2017 and been publishing my javascript experiments on [Codepen](https://codepen.io/ScavengerFrontend) since. Interactive SVG was my favorite medium of expression back then. <br/> In autumn 2019 I started to teach myself realtime 3D: threejs/webgl and glsl shaders. I was amazed by the endless possibilites of these tools. I learned to think about code art in visual 3D narratives, a very rewarding process to me as a creative person. <br/>
 Around summer 2021 I dove deep into generative art, combining all the things I've learned so far.. and the rest is story.
 <br/>
-I'm on my journey of making infinite versions of weird, playful and surreal worlds. I create to truly understand color and form through code. 
+I'm on my journey of making infinite versions of weird, playful and surreal worlds. 
+<br/>
+At the heart of everything I make lies color, form, relationship between 2D and 3D and a meaningful narrative. My deep desire is to understand all these terms through constant exploration.
 
 ### My background & influences
 
