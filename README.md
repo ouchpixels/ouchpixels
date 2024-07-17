@@ -16,9 +16,6 @@ I love to express myself through code. I discovered creative coding in summer 20
 Around summer 2021 I dove deep into generative art, combining all the things I've learned so far.. and the rest is story.
 <br/>
 I'm on my journey of making infinite versions of weird, playful and surreal worlds. 
-<br/>
-<br/>
-At the heart of everything I make lies color, humor, relationship between 2D and 3D and a good narrative. My deep desire is to understand all these terms through constant exploration.
 
 ### My background & influences
 
