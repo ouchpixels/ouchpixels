@@ -19,7 +19,7 @@ I'm on my journey of making infinite versions of weird, playful and surreal worl
 
 ### Background + influences
 
-I've been drawing and creating since as long as I can remember, it’s a core part of me. I also studied applied computer science, been a math teacher, sometimes I experiment with traditional painting, illustration, paper sculpture. <br/> I take long walks around the city trying to be a keen observer of the world around me. It all influences my code art.<br/><br/>
+I've been drawing and creating since as long as I can remember, it’s a core part of me. I also studied applied computer science, been a math teacher, sometimes I experiment with traditional painting, illustration, paper sculpture. <br/> I take long walks around the city trying to be a keen observer of the world around me. It all influences my code art.<br/>
 
 ### Contact
 
