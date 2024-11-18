@@ -1,6 +1,6 @@
 # ★ 👋 ★ <br/>
 
-I'm Anna, a Creative Coder focused on visual 3D · 2D experiences and interactivity on the Web. </br> I make beautiful and expressive things at the intersection of art and technology. <br/>
+I'm Anna, a Creative Coder focused on visual 3D · 2D experiences and interactivity on the Web. </br> I explore possibilities of coding tools for artistic expression. <br/>
 
 ### I work with
 
