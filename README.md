@@ -1,4 +1,4 @@
-# ★ Hello, code art lover ★ <br/>
+# ★ 👋 ★ <br/>
 
 I'm Anna, a Creative Coder focused on visual 3D · 2D experiences and interactivity on the Web. </br> I enjoy making beautiful and expressive things at the intersection of art and technology. <br/>
 
