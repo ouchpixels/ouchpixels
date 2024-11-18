@@ -19,4 +19,4 @@ I'm on my journey of making infinite versions of weird, poignant, playful and me
 
 ### Contact
 
-Here is my [Twitter](https://twitter.com/ouchpixels) where I post my sketches and works. You're welcome to get in touch with me there. Also @ouchpixels on Discord.
+Here is my [Twitter](https://twitter.com/ouchpixels) where I post my sketches and works. You're welcome to get in touch with me there. <br/> Also @ouchpixels on Discord.
