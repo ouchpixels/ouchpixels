@@ -4,7 +4,7 @@ I'm Anna, a Creative Coder focused on visual 3D · 2D experiences and interactiv
 
 ### I work with
 
-threejs / webgl / glsl / svg / javascript
+threejs / webgl · webgpu / glsl / svg / javascript
 
 ### I'm good at
 
