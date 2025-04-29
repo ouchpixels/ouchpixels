@@ -8,7 +8,7 @@ threejs / webgl · webgpu / glsl / svg / javascript
 
 ### I'm good at
 
-code art · generative art · interactive storytelling · imagination
+code art · generative art · interactive storytelling
 
 ### About
 
